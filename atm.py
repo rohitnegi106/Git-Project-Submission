@@ -1,7 +1,8 @@
 balance = 5000
 pin = 1234
 transactions = []
-
+account_holder = "John Doe"
+account_number = "XXXX-XXXX-1234"
 
 def check_balance():
     print(f"\nYour current balance is: ₹{balance}")
@@ -42,13 +43,11 @@ def change_pin():
         print("Incorrect PIN.")
 
 
-def transaction_history():
-    if not transactions:
-        print("\nNo transactions yet.")
-    else:
-        print("\n--- Transaction History ---")
-        for t in transactions:
-            print(t)
+def account_info():
+    print(f"\n--- Account Information ---")
+    print(f"Account Holder : {account_holder}")
+    print(f"Account Number : {account_number}")
+    print(f"Current Balance: ₹{balance}")
 
 
 def exit_account():
@@ -68,7 +67,7 @@ def main():
         print("2. Deposit")
         print("3. Withdraw")
         print("4. Change PIN")
-        print("5. Transaction History")
+        print("5. Account Info")
         print("6. Exit")
         choice = input("Choose an option: ")
 
@@ -81,7 +80,7 @@ def main():
         elif choice == "4":
             change_pin()
         elif choice == "5":
-            transaction_history()
+            account_info()
         elif choice == "6":
             exit_account()
             break
