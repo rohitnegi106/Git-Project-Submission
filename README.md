@@ -51,8 +51,7 @@ python atm.py
 
 ![Initial Commit]()
 *Screenshot: Initial repository setup and first commit*
-{https://github.com/rohitnegi106/Git-Project-Submission/blob/main/screenshots/step-1%20file_creation%20atm.py.png}
-{https://github.com/rohitnegi106/Git-Project-Submission/blob/main/screenshots/step%208%20GIT%20commands(5-first%20commit%20and%20git%20log).png}
+{screenshots/step 8 GIT commands(5-first commit and git log).png}
 
 ### Developer 1 - Transaction History Feature
 
