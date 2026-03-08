@@ -45,34 +45,42 @@ python atm.py
 
 ## 📸 Screenshots
 
+**#****Please check screenshots folder for full step by step execution**
+
 ### Initial Setup & Repository Creation
 
 ![Initial Commit]()
 *Screenshot: Initial repository setup and first commit*
+{https://github.com/rohitnegi106/Git-Project-Submission/blob/main/screenshots/step-1%20file_creation%20atm.py.png}
+{https://github.com/rohitnegi106/Git-Project-Submission/blob/main/screenshots/step%208%20GIT%20commands(5-first%20commit%20and%20git%20log).png}
 
 ### Developer 1 - Transaction History Feature
 
 ![Developer 1 Branch]()
 *Screenshot: Creating and working on developer1 branch*
+{screenshots/Step 11 Git commands (8 creating a new branch and making changes to the atm_py).png}
 
 ### Developer 2 - Account Info Feature
 
 ![Developer 2 Branch]()
 *Screenshot: Creating and working on developer2 branch*
+{screenshots/Step 13 Git commands (10 creating and switching branches dev2 and odifying the file ).png}
 
 ### Merge Conflict Resolution
 
 ![Merge Conflict]()
 *Screenshot: Merge conflict in atm.py*
+{screenshots/Step 14 Git commands (11 creating merging both the branches dev 1 and dev 2 to main in order to create a conflict ).png}
 
 ![Conflict Resolution]()
 *Screenshot: Successfully resolved merge conflict*
+{screenshots/Step 17 (final push after resolving conflict).png}
 
 ### Final Push
 
 ![Final Push]()
 *Screenshot: Pushing merged changes to GitHub*
-
+{screenshots/Step 17 (final push after resolving conflict).png}
 ## 🔧 Git Commands Used
 
 ### Initial Setup
