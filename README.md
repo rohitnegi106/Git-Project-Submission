@@ -27,7 +27,7 @@ This ATM system provides essential banking operations including balance checking
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Nityam713/Git-Project-Submission.git
+git clone https://github.com/rohitnegi106/Git-Project-Submission.git
 cd Git-Project-Submission
 ```
 
